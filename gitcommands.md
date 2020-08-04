@@ -1,9 +1,9 @@
 **[[TOC]]**
 ## Git commands
 ### Delete a branch
-
+```
   git branch -d <name of your branch>
-  
+```  
 ### Check the user name
 
   git config user.name

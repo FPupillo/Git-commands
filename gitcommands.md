@@ -16,7 +16,4 @@ git config user.name
   git config –global user.name <your username>
   git <your email>
 ```
-### Get admin permission for a folder
-```
-sudo chmod 777 <folder>
-```
+
